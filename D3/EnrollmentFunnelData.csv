@@ -1,0 +1,12 @@
+Stage,Value
+Pre-Screened,2500
+No Consent,50
+Consented,2450
+Failed Screen,400
+Enrolled,1290
+Failed Randomization,10
+Randomized,200
+Withdrawn,50
+Completed,20
+Not Evaluable,10
+Evaluable,20
